@@ -1,4 +1,3 @@
-# اعشار،یکان،دهگان،صدگان،هزارگان
 a= int(input('Aashar: '))
 y= int(input('Yekan: '))
 d= int(input('Dahgan: '))
