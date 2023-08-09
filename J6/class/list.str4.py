@@ -1,0 +1,11 @@
+a = 'seyed mohammad mahdi mosavi shoshtari'
+n = a.split()
+print(n,len(n))
+n2 = '  '.join(n)
+print(n2)
+n3 = 'ali'.join(n)
+print(n3)
+nn = a.split('m')
+print(nn)
+nn2 = 'm'.join(nn)
+print(nn2)
