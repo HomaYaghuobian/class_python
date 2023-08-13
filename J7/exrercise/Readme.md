@@ -6,8 +6,8 @@ ATM3.py
 ![Screenshot (51)](https://github.com/HomaYaghuobian/class_python/assets/140716080/fa5b6a65-c5bc-4620-bc3e-975bdaf51084)
 
 
-my calculator.py
+my calculator5.py
 ![Screenshot (50)](https://github.com/HomaYaghuobian/class_python/assets/140716080/ed91c3b5-2c3b-4c6c-8e5b-4f905b159a14)
-Air units.py
+Air units6.py
 ![Screenshot (52)](https://github.com/HomaYaghuobian/class_python/assets/140716080/04910a7a-5499-42c0-bae4-e70ab67ad574)
 
