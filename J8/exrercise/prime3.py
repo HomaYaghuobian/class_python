@@ -1,3 +1,4 @@
+# کد هنوز اماده نیست
 a = int(input('a: '))
 b = int(input('b: '))
 c = 1
