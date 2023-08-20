@@ -1,6 +1,5 @@
 import random
-from colorama import Fore
-from colorama import Back
+from colorama import Fore , Back 
 
 provinces = ['khorasan','sistan','yazd','tehran','mazandaran','golestan','esfehan','markazi','ardebil','gilan']
 colors = ['red','yellow','black','blue','white','gray','brown','green','purple','orange']
@@ -30,7 +29,7 @@ health = 6
 board_game =[]
 for i in range(len(answer)):
     board_game.append('_')
-A = 'a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'
+A = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z']
 while True:
 
     print('')
@@ -54,5 +53,12 @@ while True:
     if (letter in answer.upper()) or (letter in answer.lower()):
         idx = answer.index(letter.lower())
         board_game[idx] = letter.lower()
+        
+    # for a in A:
+    #     if letter == a:
+    #         A.remove(a)
+    #     elif letter != a:
+    #         print('this letter ()tekrariee!')
+    #     continue        
     else:
         health = health - 1
