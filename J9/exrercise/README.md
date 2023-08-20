@@ -4,3 +4,7 @@ prcode2.py
 ![paython homa](https://github.com/HomaYaghuobian/class_python/assets/140716080/47842307-0442-4375-8977-3f30799fc0d9)
 age(datetime)3.py
 ![Screenshot (77)](https://github.com/HomaYaghuobian/class_python/assets/140716080/2c9f46b7-e7cd-4ffa-8c05-5074f8234886)
+
+
+Perfect Number5.py
+![Screenshot (84)](https://github.com/HomaYaghuobian/class_python/assets/140716080/6918370c-83f7-413b-86cc-fbbb02065c33)
