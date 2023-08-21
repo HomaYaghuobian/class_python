@@ -7,3 +7,5 @@ test_turtle2.py
 
 isprime6.py
 ![Screenshot (87)](https://github.com/HomaYaghuobian/class_python/assets/140716080/9a5998ac-bffd-4523-b74e-0dff817f4a04)
+x(pow)27.py
+![Screenshot (88)](https://github.com/HomaYaghuobian/class_python/assets/140716080/49386672-5c3a-4236-ac60-37def6ed76a2)
